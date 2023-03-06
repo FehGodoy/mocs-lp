@@ -62,13 +62,13 @@ function Home() {
               <Styled.Container>               
                 <Styled.Text>
                   <Styled.TitleOver>
-                  We multiply your content.
+                  Multiplicamos seu conteúdo.
                   </Styled.TitleOver>
                   <Styled.TitleWhite>
-                  Turning 1 video into 1 month of content.
+                  Transformando 1 vídeo em 1 mês de conteúdo.
                   </Styled.TitleWhite>
                   <Styled.Subtitle>
-                    We cook up tasty bite-sized social videos that are contextual to each platform for you to create fans and make dough.
+                  Elaboramos vídeos sociais saborosos, em tamanho de mordida, que são contextuais a cada plataforma para que você crie ventiladores e faça massa.
                   </Styled.Subtitle>
                 </Styled.Text>
                 <Styled.Photo>
@@ -80,7 +80,7 @@ function Home() {
               <Styled.Container>
                 <Styled.Title>
                   <Styled.TitleSection>
-                    Schedule a Call
+                  AGENDE UMA CHAMADA
                   </Styled.TitleSection>
                 </Styled.Title>
                 <Styled.BoxNumber>
@@ -89,7 +89,7 @@ function Home() {
                         100+
                     </Styled.TitleNumber>
                     <Styled.SubtitleNumbers>
-                      VIDEOS <br /> CREATED
+                      VIDEOS <br /> CRIADOS
                     </Styled.SubtitleNumbers>
                   </Styled.BoxNumbers>
                   <Styled.BoxNumbers>
@@ -97,7 +97,7 @@ function Home() {
                         1M +
                     </Styled.TitleNumber>
                     <Styled.SubtitleNumbers>
-                      COMBINED <br /> VIEWS
+                      <br /> VIEWS
                     </Styled.SubtitleNumbers>
                   </Styled.BoxNumbers>
                   <Styled.BoxNumbers>
@@ -105,7 +105,7 @@ function Home() {
                         3+
                     </Styled.TitleNumber>
                     <Styled.SubtitleNumbers>
-                      MAJOR SOCIAL <br /> PLATFORMS COVERED
+                      MAIOR SOCIAL <br /> PLATAFORMAS COBERTAS
                     </Styled.SubtitleNumbers>
                   </Styled.BoxNumbers>
                   <Styled.BoxNumbers>
@@ -113,7 +113,7 @@ function Home() {
                         7X
                     </Styled.TitleNumber>
                     <Styled.SubtitleNumbers>
-                      ENGAGEMENT <br /> GROWTH
+                    ENGREGAMENTO <br /> CRESCIMENTO
                     </Styled.SubtitleNumbers>
                   </Styled.BoxNumbers>
                 </Styled.BoxNumber>
@@ -123,14 +123,14 @@ function Home() {
               <Styled.Container>
               <Styled.HeadSection>
                 <Styled.TitleSectionHead>
-                  The Problem
+                  O PROBLEMA
                 </Styled.TitleSectionHead>
               </Styled.HeadSection>
               <Styled.TitleSectionProblem>
                 <Styled.TitleProblem>
-                Consistently creating videos 
+                Criando consistentemente vídeos
                 <Styled.WordStyled>
-                  is difficult
+                  é difícil
                 </Styled.WordStyled>                
                 </Styled.TitleProblem>
               </Styled.TitleSectionProblem>
@@ -139,10 +139,10 @@ function Home() {
               </Styled.SectionImgLogo>
               <Styled.BoxTextProblem>
                 <Styled.TextProblem>                  
-                  YET, PROLIFIC VIDEO CREATORS EXIST. HOW ARE THEY ABLE TO DO IT?
+                NO ENTANTO, EXISTEM CRIADORES DE VÍDEO PROLÍFICOS. COMO ELES SÃO CAPAZES DE FAZER ISSO?
                 </Styled.TextProblem>
                 <Styled.SubtextProblem>
-                You believe in the power of video content marketing. Hell, you’ve made videos yourself. But now you need videos on overdrive without having to be the one who makes them, that’s when things got tough.
+                Você acredita no poder do marketing de conteúdo de vídeo. Você mesmo já fez vídeos. Mas agora você precisa de vídeos em overdrive sem ter que ser você quem os faz, foi aí que as coisas ficaram difíceis.
                 </Styled.SubtextProblem>
               </Styled.BoxTextProblem>
               </Styled.Container>
@@ -151,32 +151,32 @@ function Home() {
               <Styled.Container>
               <Styled.HeadSection>
                 <Styled.TitleSectionHead>
-                  SYMPTOMS
+                SINTOMAS
                 </Styled.TitleSectionHead>
               </Styled.HeadSection>
                 <Styled.BoxContainer>
                   <Styled.BoxSym>
                     <Styled.TitleBoxSym>
-                    You're not a babysitter
+                    Você não é uma babá.
                     </Styled.TitleBoxSym>
                     <Styled.TextBoxSym>
-                    You’ve hired editors before. But you’re spending just as much time directing them as you would have making the video yourself. Good talent that understands you and lifts that burden is a dime dozen, and the search feels endless.
+                    Você já contratou editores antes. Mas está gastando tanto tempo direcionando-os quanto gastaria fazendo o vídeo você mesmo. Um bom talento que entenda você e alivie esse fardo é difícil de encontrar e a busca parece interminável.
                     </Styled.TextBoxSym>
                   </Styled.BoxSym>
                   <Styled.BoxSym>
                     <Styled.TitleBoxSym>
-                    New ideas are a struggle
+                    Novas ideias são uma luta.
                     </Styled.TitleBoxSym>
                     <Styled.TextBoxSym>
-                    You’ve hired editors before. But you’re spending just as much time directing them as you would have making the video yourself. Good talent that understands you and lifts that burden is a dime dozen, and the search feels endless.
+                    Como uma agência que realiza filmagens, sabemos que novas ideias são uma luta constante. A indústria cinematográfica é um mundo competitivo e em constante evolução, e é essencial que estejamos sempre buscando maneiras de inovar e nos destacar.
                     </Styled.TextBoxSym>
                   </Styled.BoxSym>
                   <Styled.BoxSym>
                     <Styled.TitleBoxSym>
-                    Your videos don't convert
+                    Vídeos não convertem.
                     </Styled.TitleBoxSym>
                     <Styled.TextBoxSym>
-                    You’ve hired editors before. But you’re spending just as much time directing them as you would have making the video yourself. Good talent that understands you and lifts that burden is a dime dozen, and the search feels endless.
+                    Como uma agência que realiza filmagens, sabemos que a conversão é a métrica mais importante para nossos clientes. Quando nossos clientes investem em vídeos, eles esperam obter um retorno sobre esse investimento, seja em forma de vendas, engajamento ou reconhecimento de marca. 
                     </Styled.TextBoxSym>
                   </Styled.BoxSym>
                 </Styled.BoxContainer>
@@ -185,16 +185,16 @@ function Home() {
             <Styled.SectionSymptonsVersionTwo>
               <Styled.HeadSection>
                 <Styled.TitleSectionHead>
-                  SYMPTOMS
+                  SINTOMAS
                 </Styled.TitleSectionHead>
               </Styled.HeadSection>
               <Styled.Container>
                 <Styled.BoxContext>
                   <Styled.TitleBoxGreen>
-                    Contextual videos that build connections and convert.
+                  Vídeos contextuais que constroem conexões e convertem.
                   </Styled.TitleBoxGreen>
                   <Styled.TextBoxGreen>
-                  Picture your videos getting thousands of views, increasing your followers, and receiving comments and DMs asking for your help. Opportunities to help more people, guest speak on shows and podcasts, and sell your products are now a regular occurrence. All this is possible with contextual video content and a systematized process for creating them.
+                  Imagine seus vídeos recebendo milhares de visualizações, aumentando seus seguidores e recebendo comentários e mensagens diretas pedindo sua ajuda. Oportunidades para ajudar mais pessoas, participar de programas e podcasts como convidado e vender seus produtos agora são uma ocorrência regular. Tudo isso é possível com conteúdo de vídeo contextual e um processo sistematizado para criá-los.
                   </Styled.TextBoxGreen>
                 </Styled.BoxContext>
               </Styled.Container>
@@ -211,14 +211,14 @@ function Home() {
               <Styled.Container>
                 <Styled.HeadSection>
                   <Styled.TitleSectionHead>
-                  WHO WE ARE
+                  QUEM SOMOS
                   </Styled.TitleSectionHead>
                 </Styled.HeadSection>
                 <Styled.TitleWe>
-                  <h1>Why do it all yourself, when we can do it for you.</h1>
+                  <h1>Por que fazer tudo sozinho, quando podemos fazer isso por você.</h1>
                 </Styled.TitleWe>
                 <Styled.TextBoxGreen>
-                We want you to leverage our experience and avoid the mistakes that we’ve already made. We’re not just skilled editors – we’re a team of scholars, storytellers, strategists, copywriters, designers, and marketers. We focus on your brand’s personality and your audience’s wants and needs to create customized videos that help you hit your
+                Queremos que você aproveite nossa experiência e evite os erros que já cometemos. Não somos apenas editores habilidosos - somos uma equipe de estudiosos, contadores de histórias, estrategistas, redatores, designers e profissionais de marketing. Nosso foco é a personalidade da sua marca e as necessidades e desejos do seu público-alvo para criar vídeos personalizados que ajudam a alcançar seus objetivos.
                   </Styled.TextBoxGreen>
               </Styled.Container>
             </Styled.Weare>
@@ -226,14 +226,14 @@ function Home() {
               <Styled.Container>
                 <Styled.HeadSection>
                   <Styled.TitleSectionHead>
-                  TESTIMONIALS 
+                  NOSSA EQUIPE 
                   </Styled.TitleSectionHead>
                 </Styled.HeadSection>
                 <Styled.TitleWall>
-                  <h1>Trusted by <br/> industry leaders</h1>
+                  <h1>Confiado por <br /> líderes da indústria.</h1>
                 </Styled.TitleWall>
                 <Styled.TextWall>
-                  <h6>FROM FEELING FRUSTRATED, TO CREATING CONTENT THAT ELEVATES THEIR INFLUENCE AND IMPACT.</h6>
+                  <h6>DE SE SENTIR FRUSTRADO A CRIAR CONTEÚDO QUE ELEVA SUA INFLUÊNCIA E IMPACTO.</h6>
                 </Styled.TextWall>
               </Styled.Container>
             </Styled.SectionTestimonials>
@@ -249,7 +249,7 @@ function Home() {
                         <h2>Chris Do</h2>
                       </Styled.BoxNameProducer>
                       <Styled.ResumeProducer>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam similique molestias neque hic sint fuga impedit quis, illum fugiat iure tempora soluta asperiores ab.</p>
+                        <p>Um renomado diretor, produtor e roteirista americano. Ele dirigiu inúmeros filmes de sucesso.</p>
                       </Styled.ResumeProducer>
                       <Styled.FunctionProducer>
                         <h6>Emmy Award Winning Director</h6>
@@ -265,7 +265,7 @@ function Home() {
                         <h2>Melinda Livsey</h2>
                       </Styled.BoxNameProducer>
                       <Styled.ResumeProducer>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam similique molestias neque hic sint fuga impedit quis, illum fugiat iure tempora soluta asperiores ab.</p>
+                        <p>Uma diretora e roteirista americana. Ela é mais conhecida por dirigir o filme Mulher-Maravilha, que foi um grande sucesso de bilheteria e ajudou a impulsionar a carreira dela.</p>
                       </Styled.ResumeProducer>
                       <Styled.FunctionProducer>
                         <h6>CEO of Uncertified</h6>
@@ -281,7 +281,7 @@ function Home() {
                         <h2>Dain Walker</h2>
                       </Styled.BoxNameProducer>
                       <Styled.ResumeProducer>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam similique molestias neque hic sint fuga impedit quis, illum fugiat iure tempora soluta asperiores ab.</p>
+                        <p>Um diretor de fotografia britânico com mais de 35 anos de experiência em cinema. Ele já trabalhou em diversos filmes aclamados pela crítica, incluindo 1917, Blade Runner 2049 e Onde os Fracos Não Têm Vez.</p>
                       </Styled.ResumeProducer>
                       <Styled.FunctionProducer>
                         <h6>CEO of Uncertified</h6>
@@ -297,7 +297,7 @@ function Home() {
                         <h2>Erik Korem</h2>
                       </Styled.BoxNameProducer>
                       <Styled.ResumeProducer>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam similique molestias neque hic sint fuga impedit quis, illum fugiat iure tempora soluta asperiores ab.</p>
+                        <p>Um diretor, produtor e roteirista americano que tem trabalhado no cinema há mais de 30 anos. Ele já dirigiu diversos filmes premiados, incluindo Faça a Coisa Certa e Malcolm X.</p>
                       </Styled.ResumeProducer>
                       <Styled.FunctionProducer>
                         <h6>CEO of Victory Front</h6>
@@ -313,7 +313,7 @@ function Home() {
                         <h2>Neel Dhingra</h2>
                       </Styled.BoxNameProducer>
                       <Styled.ResumeProducer>
-                        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Ipsam similique molestias neque hic sint fuga impedit quis, illum fugiat iure tempora soluta asperiores ab.</p>
+                        <p>Um compositor de trilhas sonoras alemão que já trabalhou em mais de 150 filmes. Ele é conhecido por compor a música para filmes como O Rei Leão, Gladiador e A Origem.</p>
                       </Styled.ResumeProducer>
                       <Styled.FunctionProducer>
                         <h6>Real Estate Investor</h6>

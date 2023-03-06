@@ -28,12 +28,12 @@ function Footer() {
                         </ul>
                         <Styled.BoxContact>
                             <p>info@mocs.com</p>
-                            <p>{(new Date().getFullYear())} © MOCS. ALL RIGHTS RESERVED.</p>
+                            <p>{(new Date().getFullYear())} © MOCS. TODOS DIREITOS RESERVADOS.</p>
                         </Styled.BoxContact>
                     </Styled.BoxSocial>
                     <Styled.LinkAnchor>
                         <a href="#header">
-                            Back to top
+                            Voltar ao Topo
                         </a>
                     </Styled.LinkAnchor>
                 </Styled.Container>
